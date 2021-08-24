@@ -22,4 +22,4 @@ delete from [dbo].[SituacionAmbiente]
 */
 
 --select * from Elementos
-
+--select * from [Elementos_Listas_Valores]

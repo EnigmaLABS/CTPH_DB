@@ -79,6 +79,8 @@
     <Build Include="dbo\Tables\Elementos.sql" />
     <Build Include="dwh\Stored Procedures\ExecuteAnalysis_V0.sql" />
     <Build Include="Security\dwh.sql" />
+    <Build Include="dbo\Tables\Perfiles.sql" />
+    <Build Include="dbo\Tables\Perfil_Elementos.sql" />
   </ItemGroup>
   <ItemGroup>
     <None Include="scripts\muestras.sql" />
